@@ -1,0 +1,21 @@
+table{}
+#gCells{
+    background-color:#d8e1c6;
+    text-align: center;
+}
+#gCell{
+    background-color: #b1cc7f;
+    text-align: center;
+}
+#lbc{
+    background-color:#d6eaf1 ;
+    text-align: center;
+}
+#mbc{
+    background-color:#91c4d5 ;
+    
+}
+#hbc{
+    background-color: #66a8be;
+
+}
